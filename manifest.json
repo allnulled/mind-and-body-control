@@ -1,0 +1,21 @@
+{
+    "name": "Mind and Body Control - version 1.0",
+    "short_name": "Mind and Body Control - version 1.0",
+    "icons": [{
+        "src": "/favicon-256x256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+    }, {
+        "src": "/favicon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }],
+    "start_url": "/",
+    "background_color": "#E0E0E0",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#E0E0E0",
+    "shortcuts": [],
+    "description": "Aplicación de monitorización de las entradas y salidas (I/O) de la mente y el cuerpo como máquina biológica. Se pueden encontrar: un monitorizador de actividades, otro de nutrición, etc.",
+    "screenshots": []
+}
