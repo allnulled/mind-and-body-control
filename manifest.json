@@ -12,7 +12,7 @@
     }],
     "start_url": "/",
     "background_color": "#E0E0E0",
-    "display": "standalone",
+    "display": "fullscreen",
     "scope": "/",
     "theme_color": "#E0E0E0",
     "shortcuts": [],
